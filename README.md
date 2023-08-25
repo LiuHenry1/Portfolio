@@ -1,9 +1,11 @@
 # Portfolio
 
-# Projects from The Odin Project
-[Etch-A-Sketch](https://liuhenry1.github.io/odin-etch-a-sketch/)
+# Projects from The Odin Project Foundation
+[Calculator](https://github.com/LiuHenry1/odin-calculator)
 
-[Landing Page](https://liuhenry1.github.io/odin-landing-page/)
+[Etch-A-Sketch](https://github.com/LiuHenry1/odin-etch-a-sketch)
 
-[Rock Paper Scissors](https://liuhenry1.github.io/odin-rock-paper-scissors/)
+[Landing Page](https://github.com/LiuHenry1/odin-landing-page)
+
+[Rock Paper Scissors](https://github.com/LiuHenry1/odin-rock-paper-scissors)
 
